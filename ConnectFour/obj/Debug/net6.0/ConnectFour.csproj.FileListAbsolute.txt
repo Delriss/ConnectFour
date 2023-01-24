@@ -1,0 +1,15 @@
+C:\Users\haxz3\OneDrive\Uni Y2\OOP\ConnectFour\ConnectFour\bin\Debug\net6.0\ConnectFour.exe
+C:\Users\haxz3\OneDrive\Uni Y2\OOP\ConnectFour\ConnectFour\bin\Debug\net6.0\ConnectFour.deps.json
+C:\Users\haxz3\OneDrive\Uni Y2\OOP\ConnectFour\ConnectFour\bin\Debug\net6.0\ConnectFour.runtimeconfig.json
+C:\Users\haxz3\OneDrive\Uni Y2\OOP\ConnectFour\ConnectFour\bin\Debug\net6.0\ConnectFour.dll
+C:\Users\haxz3\OneDrive\Uni Y2\OOP\ConnectFour\ConnectFour\bin\Debug\net6.0\ConnectFour.pdb
+C:\Users\haxz3\OneDrive\Uni Y2\OOP\ConnectFour\ConnectFour\obj\Debug\net6.0\ConnectFour.csproj.AssemblyReference.cache
+C:\Users\haxz3\OneDrive\Uni Y2\OOP\ConnectFour\ConnectFour\obj\Debug\net6.0\ConnectFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haxz3\OneDrive\Uni Y2\OOP\ConnectFour\ConnectFour\obj\Debug\net6.0\ConnectFour.AssemblyInfoInputs.cache
+C:\Users\haxz3\OneDrive\Uni Y2\OOP\ConnectFour\ConnectFour\obj\Debug\net6.0\ConnectFour.AssemblyInfo.cs
+C:\Users\haxz3\OneDrive\Uni Y2\OOP\ConnectFour\ConnectFour\obj\Debug\net6.0\ConnectFour.csproj.CoreCompileInputs.cache
+C:\Users\haxz3\OneDrive\Uni Y2\OOP\ConnectFour\ConnectFour\obj\Debug\net6.0\ConnectFour.dll
+C:\Users\haxz3\OneDrive\Uni Y2\OOP\ConnectFour\ConnectFour\obj\Debug\net6.0\refint\ConnectFour.dll
+C:\Users\haxz3\OneDrive\Uni Y2\OOP\ConnectFour\ConnectFour\obj\Debug\net6.0\ConnectFour.pdb
+C:\Users\haxz3\OneDrive\Uni Y2\OOP\ConnectFour\ConnectFour\obj\Debug\net6.0\ConnectFour.genruntimeconfig.cache
+C:\Users\haxz3\OneDrive\Uni Y2\OOP\ConnectFour\ConnectFour\obj\Debug\net6.0\ref\ConnectFour.dll
